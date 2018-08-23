@@ -6,7 +6,6 @@ namespace CrashCourse
     {
         static void Main(string[] args)
         {
-            //jdfnjdbkfdnjbkfnbjkfnkj
             UserInterface.InitiateMainMenu();
         }
     }
